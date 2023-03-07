@@ -84,7 +84,7 @@ function print(value: any)
     console.log(value);
 }
 
-//Generics
+//Genericss
 
 // function insertAtBeginning(array: any)
 
